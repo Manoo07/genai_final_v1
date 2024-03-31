@@ -1,0 +1,8 @@
+.env
+uploads/*
+*.pyc
+myenv/
+__pycache__/
+.DS_Store
+FAISS_DB/
+
